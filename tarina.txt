@@ -1,6 +1,3 @@
 ensimmäinen rivi 
-<<<<<<< Updated upstream
-toinen rivi githubistaghow to ad
-=======
+toinen rivi githubistag
 lisätään viimeinen rivi komennoissa
->>>>>>> Stashed changes
