@@ -1,4 +1,4 @@
 tämä on githubissa muutettu lause 
 testi lause
 github-lause
-terveisiä mun koneelta
+terveisiä mun koneelta ja GitHubista
