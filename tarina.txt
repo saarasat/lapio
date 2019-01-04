@@ -1,2 +1,6 @@
 ensimmäinen rivi 
+<<<<<<< Updated upstream
 toinen rivi githubistaghow to ad
+=======
+lisätään viimeinen rivi komennoissa
+>>>>>>> Stashed changes
